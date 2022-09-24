@@ -35,7 +35,7 @@
                     <!-- coloums 3 -->
                     <div class="col">
                         <a href="app/rumus_math/tabung.php">Tabung</a>
-                        </1div>
+                        </div>
                     </div>
                 </div>
             </div>
