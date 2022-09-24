@@ -23,7 +23,7 @@ error_reporting(0);
   <!-- NAVBAR SECTION -->
   <header class="px-5 lg:px-12 py-2 lg:py-4 flex flex-wrap items-center bg-sky-900 justify-between ">
     <div class=" flex justify-between items-center ">
-      <a href="../index.php" class="text-slate-200 hover:text-slate-100 text-xl font-bold ">
+      <a href="../../index.php" class="text-slate-200 hover:text-slate-100 text-xl font-bold ">
         <p class="static">RUMUS</p>
         <span class="inline-block relative -top-2 shadow-sm">BANGUN.ID</span>
       </a>
@@ -42,7 +42,7 @@ error_reporting(0);
       <nav>
         <ul class="lg:flex justify-between  lg:px-10 text-slate-100 ">
           <li>
-            <a href="../index.php" class="text-sm px-5 py-3 lg:p-3 text-slate-200 hover:text-white">
+            <a href="../../index.php" class="text-sm px-5 py-3 lg:p-3 text-slate-200 hover:text-white">
               BERANDA
             </a>
           </li>
